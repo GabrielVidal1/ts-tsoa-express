@@ -1,0 +1,50 @@
+/dist
+/build
+/tmp
+/out-tsc
+/bazel-out
+/node_modules
+chrome-profiler-events.json
+speed-measure-plugin.json
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.env
+
+# IDE - VSCode
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# misc
+
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+
+# System Files
+
+.DS_Store
+Thumbs.db
+
+
+#Node Modules Package Files
+
+
+
+package-lock.json
+*.swp
